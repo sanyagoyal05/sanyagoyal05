@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sanyagoyal05
-- 👀 I’m interested in readind , tech and coding
+- 👀 I’m interested in reading , tech and coding
 - 🌱 I’m currently learning advanced python and c language.
 - 💞️ I’m looking to collaborate on projects related to programming.
 - 😄 Pronouns: she /her
